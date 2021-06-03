@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jesuita vapulans, or, A whip for the fool's back, and a gag for his foul mouth, in a just vindication of sixteen noble peers of the realm petitioning His Majesty</title>
+            <author>C. N.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25276</idno><idno type="EEBO-CITATION">13515769</idno>
+  <idno type="VID">199409</idno>
+  <idno type="EEBO-PROQUEST">2240949808</idno>
+  
+            <idno type="STC">Wing J707</idno>
+            <idno type="OCLC">13515769</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199409)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jesuita vapulans, or, A whip for the fool's back, and a gag for his foul mouth, in a just vindication of sixteen noble peers of the realm petitioning His Majesty</title>
+                  <author>C. N.</author>
+                  <author>Halifax, George Savile, Marquis of, 1633-1695.</author>
+                  <author>Ness, Christopher, 1621-1705.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: C. N. [i.e. Christopher Ness?]</note>
+                  <note>In answer to A letter to a noble peer of the realm, about his late speech and petition to His Majesty.</note>
+                  <note>Defends the Earl of Essex in particular and "The petition and advice of several peers" delivered 25 Jan. 1681 to King Charles asking him to give up Oxford as the place for the meeting of Parliament.</note>
+                  <note>Possibly an answer to A seasonable address which is attributed to George Saville, marquis of Halifax.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Arthur Capel, --  Earl of, 1631-1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199409:1"/>
+            <head>
+               <hi>Iesuita Vapulans:</hi> Or a Whip for the Fool's Back, and a Gag for his Foul Mouth, in a just Vindication of Sixteen Noble Peers of the Realm, Petitioning His Majesty.</head>
+            <p>THis licentious Age doth abound with so many <hi>unclean Spirits, like Frogs, Rev.</hi> 16.13. As not only creep into Kings Palaces, as the Frogs of <hi>Egypt</hi> did into the King's very Chamber, to croak in his Face, and to crawl on his Bosom, when neither Walls not Weapons, Barrs nor Bolts, could keep them out, <hi>Exod.</hi> 8.1, 3, 4, 6. But dare also croak <hi>there</hi> with their continual <hi>[Breke, ke kex coax coax]</hi> (as <hi>Aristophanes</hi> phraseth it) out of their black Mouths, and bespatter some principal Peers of our Realm, for no other Fault, but because they desire,</p>
+            <q>
+               <l>Their Sov'raign to preserve, these Kingdoms free,</l>
+               <l>From popish Cut-Throats, and <hi>Egypt</hi>'s Slavery.</l>
+            </q>
+            <p>Those Spiritual Fathers (the <hi>Jesuits,</hi> who are the Pope's <hi>Janizaries,</hi> and <hi>ulti<g ref="char:EOLhyphen"/>mus Diaboli crepitus,</hi> the last <hi>Crack-Fart</hi> of a daring Devil) are called <hi>Frogs,</hi> for their Loquacity, Impudency, and Impurity. 'Tis a thousand pities, that the famous <hi>White-Hall,</hi> should harbour any such <hi>Black-mouth'd</hi> Creatures, with all those three <hi>Black-brands</hi> upon them; I dare say, 'tis not <hi>cum Privilegio,</hi> as the dirty Dogs do bark at the splendid Moon, which yet keeps her Course, and conti<g ref="char:EOLhyphen"/>nues her Lustre, <hi>notwithstanding their Barking:</hi> So those croaking Frogs do en<g ref="char:EOLhyphen"/>deavour to darken some Stars of the first magnitude in our British Sphere, with their Out-cryes against them; yet I doubt not, but those Noble Peers will main<g ref="char:EOLhyphen"/>tain their Grandeur and Splendour, <hi>notwithstanding their Croaking.</hi> 'Tis a thou<g ref="char:EOLhyphen"/>sand pities, such <hi>Scandalum magnatum</hi> may now sculk so under unknown Mas<g ref="char:EOLhyphen"/>queradoes, as to scape Scot-free with their pretended Letters from <hi>Scotland,</hi> (though writ at home) against such Noble Peers, and Loyal States-men. <hi>Aesop</hi>'s Frog is deemed an able and couragious Champion, that durst encounter the silly Mouse, and run a Tilt at him with a Bull-rush for his Spear; but this <hi>Pamphleteer</hi> is a bolder Frog, yea a more daring Devil, (or unclean Spirit) who dare en<g ref="char:EOLhyphen"/>counter no less then sixteen at once, (when <hi>Hercules</hi> himself durst not contend with two at one time, <hi>Nè Hercules contra duos</hi>) and those sixteen all great Peers of the Land: This is an Enterprise <hi>dignum tanto,</hi> worthy of a poor Frog to un<g ref="char:EOLhyphen"/>dertake. Assuredly he conceited himself to be that other Frog of <hi>Aesop</hi>'s, who would needs swell and stretch himself out, till he became as big as an Ox; but the issue was, he brake himself all asunder, and so perished. The like Fate may in due time befal this <hi>Bombasting Bragadocio,</hi> and over bold undertaker. Or per<g ref="char:EOLhyphen"/>haps he fancied himself of the Off-spring of those, (the Poet mentioned) who waged War against <hi>Jove</hi> himself, (<hi>subjectum Pelion Ossae</hi> &amp;c. Throwing great Trees, huge Rocks, and vast Mountains against Heaven, to throw <hi>Jupiter</hi> out of his Throne, but they were answered with hot Thunder-bolts, whereby that <hi>Gi<g ref="char:EOLhyphen"/>ganto machia</hi> had a Period put to it in the Giants Destruction. Or lastly, he might imagine himself to descend from the <hi>Zamzummims, Deut.</hi> 2.20. Those big and boistrous Men, that durst bid defiance to the true <hi>Jehovah,</hi> and challenge him to a Duel, whom yet the Lord destroyed before <hi>Israel.</hi> This <hi>Thrasonical</hi> Libeller feareth none of these Fates, daring to outdare both God and Man, yea great, and the greatest of Men: And if he falls in his Essay, (as fond <hi>Phaeton</hi> did in his) with my consent he shall have <hi>Phaeton</hi>'s Epitaph writ upon his Tomb, (may he be capable of that Honour) only with change of the Name and Employ:</p>
+            <q>
+               <l>
+                  <hi>Hic situs est</hi> Thraso, <hi>Baronum contaminator,</hi>
+               </l>
+               <l>
+                  <hi>Quo si non valuit, magnis tamen excidit ausis.</hi>
+               </l>
+            </q>
+            <pb n="2" facs="tcp:199409:2"/>
+            <p>And how can he hope for any better success then a Fall, to fight against so many Grand <hi>He<g ref="char:EOLhyphen"/>roes</hi> all at once, and that with no better a Weapon than that Spear of the Frog aforesaid, to wit, a poor Bulrush? All his Arguments he urgeth against them are not worth a Rush, and no bet<g ref="char:EOLhyphen"/>ter than a Bulrush, as the Sequel evidenceth.</p>
+            <p>The Observation whereof, looseth my long silent Tongue, (as danger did the dumb Son of <hi>Croesus,</hi> who all on the sudden cryed out, <hi>kill not King Croesus.</hi>). <hi>Facit indignatio versum.</hi> A just Indignation at this sordid Sycophant, and Pick-thank Parasite, hath constrained me to cry out, Undo not the King, and his Kingdoms, with your precipitant Counsels, and your preju<g ref="char:EOLhyphen"/>dicate Suggestions; undo not your self, who like the filly Wezel, that dare nibble at the Heels of a Lion, that saith, <hi>nemo me impune lacessit,</hi> whom the provoked Beast easily destroys with his Paw, how much more a Nibler at the Heels of so many Lions at once? One that casteth so much Dirt upon them, is in the high way to be destroyed, and the Nobles them<g ref="char:EOLhyphen"/>selves not much damag'd thereby? For if Dirt be cast upon a Mud-Wall, it may possibly stick, but it cannot do so upon Marble.</p>
+            <p>This scurrilous Libeller (as suspecting his own strength in his Essay) doth supplie with Policy his want of power and prowess.</p>
+            <q>
+               <hi>Dolus an virtus, quis in hoste requirat?</hi>
+            </q>
+            <p>He therefore first singleth out the Noble Earl of <hi>Essex,</hi> (that brave Patriot for his King and Kingdom,) as <hi>their</hi> Forlorn Hope, which could he but rout, then will he fall soul upon the main Body, that stood in a double File, or two in a Rank behind him. And in pursuance of this project he first assaults that single Earl, with subtile Insinuations, dipping his Nail (he had to drive) in Oil, to make it drive the deeper, not only to the Head, but to the Heart also. Thus like the Devil, he accosts the Earl with <hi>Flattering,</hi> before he come to his <hi>Frowning</hi> Work, which he comes to in the second place. Not only frowning upon the Earl, in telling him that he threatens his Majesty (which his humble offer of Advice (as he saith there) can in no Grammatical sence without notorious wresting be so interpreted) but also in giving that Noble Peer <hi>(Tantamont)</hi> the Lie, in upbraiding him with his weak Observation without the least ground in History, as if this obscure Whiffler (ashamed of his own Name) knew more both of the History and Mistery of our State than all those sixteen Lords, and all other the wisest of States-men.</p>
+            <p>However, he craftily quotes <hi>Baker</hi>'s Chronicle only, and because he there found nothing of the Parliament at <hi>Clarendon,</hi> in <hi>Henry</hi> the II.'s Time, therefore he affronts the Earl with telling an Untruth: and he saith, the cause of that King's Unhappiness was from <hi>ambitious</hi> and <hi>dis<g ref="char:EOLhyphen"/>contented Grandees:</hi> But had he consulted <hi>Fuller's Church History, Cent.</hi> 12. <hi>lib.</hi> 3. <hi>pag.</hi> 32. and <hi>Prideaux</hi>'s Introduction, <hi>pag.</hi> 319. <hi>edit.</hi> 2. (both of them true Sons of the Church, and under Prelatical Order) he would have found there, that the Parliament was called at <hi>Claren<g ref="char:EOLhyphen"/>don,</hi> to retrench the Enormities of the Clergy, where the Foundation of a Feud was laid, not so much 'twixt him and any ambitious Nobles, (as the Pamphlet hinteth) as betwixt him, and that Traitor-Saint. <hi>Becket,</hi> Arch-Bishop of <hi>Canterbury,</hi> who was a stubborn Patronizer of the debauched Clergy, with whom that King had many Bickerings; and 'twas not the Se<g ref="char:EOLhyphen"/>cular Lords (as this Whiffler saith) but this proud Spiritual Lord, <hi>Becket,</hi> who fomented the Difference betwixt this King, and <hi>Lewis</hi> the French King, <hi>Fuller, p.</hi> 33. with whom his own Son <hi>Henry</hi> sided against him, <hi>p.</hi> 40. And as to <hi>Henry</hi> the III. this Pamphleteer might have consulted the two fore-named Authors, as well as <hi>Baker,</hi> and there he would have found like<g ref="char:EOLhyphen"/>wise something of an <hi>Insanum Parliamentum</hi> at <hi>Oxford,</hi> which proved prejudicial to Regality, <hi>Prideaux, p.</hi> 322. and how his immoderate and exasperating Favours (cast upon Strangers) drew on the Barons Wars; and that the King's Non-age, after his Full-age, (such was his Weakness of Spirit, and Lowness of Resolution) was a great Cause of his Trouble, <hi>Fuller, ut supra, p.</hi> 55. who further saith, That the Barons had then too much Matter, whereon justly to ground their Discontent; partly, because the King, distrusting his own Native Subjects, employed so many French Forreigners in Places of Power and Profit; and partly, because he had used such indirect Courses to recruit his Treasuries, <hi>&amp;c.</hi> More at large, <hi>Fuller, ibid. p.</hi> 66. <hi>Sect.</hi> 33. Yet was he happy in this, to redress all his Errors before he died, <hi>Sect.</hi> 38. granting that good <hi>Magna Charta,</hi> &amp;c.</p>
+            <p>As to <hi>Henry</hi> the VI. our Libeller shuffles that up, and never quotes <hi>Baker,</hi> (as he might have done) who tells us, how the Duke of <hi>York</hi> first began to whisper for the Crown, <hi>p.</hi> 188 <hi>Col.</hi> 2. then secondly, made his way to the Crown, <hi>p.</hi> 190. <hi>Col.</hi> 1. After all this, takes the Oath of Allegiance to <hi>Henry</hi> the VI. <hi>p.</hi> 192. <hi>Col.</hi> 2. whom he cast out of his Throne, (notwithstanding his Oath of Fidelity two several times,) there being no less than four Changes in his Reign. But not a word of this must we hear from him, lest that should create the like Fears about the Duke of <hi>York</hi> at this time: For then did <hi>Richard</hi> Duke of <hi>York</hi> (<hi>Edward</hi> the IV.'s Father) get it confirmed by Parliament, to be Heir Apparent of the Crown; and this is the great Contest of this Day. Neither doth he mention that Parliament held at <hi>Coventry,</hi> (which that Honourable Lord in his Humble Address hinteth at) wherein the Duke of <hi>York</hi> was convicted of High-Treason, and all his Lands and Goods confiscate to the King. This also had a <hi>Noli me tangere</hi> upon it, as being, like the afore-said, unsuitable to his Design, tho his <hi>Baker,</hi> whom he only quotes, do speak fully to all this, <hi>p.</hi> 196. <hi>Col.</hi> 1.</p>
+            <p>As to the Body of the Petition, I observe, this Libeller is a fast Friend to the plotting Papists, and would give us a Diversion from that kind of Cattel to the Presbyterians, (whom he judge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> far worse) as if he had an hand in the Meal-Tub Intrigue.</p>
+            <q>
+               <p>
+                  <hi>Dat veniam Corvis, vexat Censura Columbas.</hi>
+               </p>
+               <p>The Lord drive these unclean Spirits (the croaking Frogs) far from us,</p>
+               <bibl>(as <hi>Zech.</hi> 13.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </bibl>
+            </q>
+            <closer>
+               <signed>So prays, <hi>C. N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
